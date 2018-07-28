@@ -578,9 +578,9 @@ a {
   color: #FF6E0F; }
 
 body {
-  background-image: url("../../assets/img/desktop-footer.png");
+  /* background-image: url("../../assets/img/desktop-footer.png"); TODO */
   background-position: bottom;
-  background-color: #f2f2f2;
+  background-color: #51d1f4;
   background-repeat: no-repeat;
   background-size: 100vw auto;
   margin: 0px; }
