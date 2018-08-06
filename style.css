@@ -580,9 +580,14 @@ a {
 body {
   /* background-image: url("../../assets/img/desktop-footer.png"); TODO */
   background-position: bottom;
-  background-color: #51d1f4;
+  background-image: url(assets/images/background-image.jpg);
+  /*background-color: #51d1f4;*/
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: 100vw auto;
+  background-size: cover;
   margin: 0px; }
 
 .header-home2 {
