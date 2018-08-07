@@ -892,13 +892,15 @@ hr {
 
 /* MOBILE RULES */
 @media only screen and (max-width: 768px) {
-  body {
-    background-image: url("./assets/images/amir_picture_2018.jpeg");
-    background-color: #F2F1F6;
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: 100vw auto;
-    margin: 0px; }
+body {
+  background-position: bottom;
+  background-image: url(assets/images/background-image.jpg);
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+  margin: 0px; }
   .hvr-grow-shadow {
     color: #333333;
     background-color: #fff; }
