@@ -262,7 +262,6 @@
   padding: 10px 20px 10px 20px;
   border-radius: 20px;
   font-family: "Rubik", "Roboto", "Helvetica", sans-serif;
-  width: auto;
   color: #333;
   background: #fff;
   -webkit-transition: border .25s;
@@ -290,7 +289,6 @@
   padding: 10px 20px 10px 20px;
   border-radius: 20px;
   font-family: "Rubik", "Roboto", "Helvetica", sans-serif;
-  width: auto;
   border: 1px solid rgba(0, 0, 0, 0.2);
   background: #333;
   color: #fff; }
@@ -307,8 +305,7 @@
   padding: 8px 14px 6px 14px;
   border-radius: 16px;
   font-family: "Rubik", "Roboto", "Helvetica", sans-serif;
-  color: #fff;
-  width: auto; }
+  color: #fff;}
 
 .smiley {
   background-position: center;
@@ -814,8 +811,6 @@ body {
   padding: 8px;
   border-radius: 32px;
   color: #fff;
-  width: 36px;
-  height: 36px;
   text-align: center;
   text-decoration: none;
   font-size: 20px;
