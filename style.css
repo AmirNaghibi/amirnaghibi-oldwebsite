@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:600,800);
-.lettuceparty .projecttag {
-  background-color: #439823; }
+.classchamp .projecttag {
+  background-color: #f90011; }
 
-.lettuceparty .readmore {
-  background-image: url(../../assets/img/grad/lettuceparty.png);
+.classchamp .readmore {
+  background-image: url(../../assets/img/grad/classchamp.png);
   -webkit-box-shadow: 0px 15px 45px -25px #439823;
   -moz-box-shadow: 0px 15px 45px -25px #439823;
   box-shadow: 0px 15px 45px -25px #439823; }
@@ -313,20 +313,20 @@
 .smiley {
   background-position: center;
   height: 120px;
-  background-image: url("../../assets/img/smiley.png");
+  /* background-image: url("assets/images/amir_picture_2018.jpeg"); */
   background-size: 120px 120px;
   background-repeat: no-repeat;
   width: 736px;
   margin: auto;
   padding-top: 80px;
-  margin-bottom: -50px; }
+  margin-bottom: -100px; }
 
 .projectdesc {
   text-align: left;
   vertical-align: middle;
   padding: 12px 30px 0px 30px;
   font-family: "Rubik", "Roboto", "Helvetica", sans-serif;
-  color: #666;
+  color: rgb(28, 0, 241);
   font-weight: 400;
   font-size: 1.1 rem;
   line-height: 1.5;
@@ -578,15 +578,12 @@ a {
   color: #FF6E0F; }
 
 body {
-  /* background-image: url("../../assets/img/desktop-footer.png"); TODO */
   background-position: bottom;
   background-image: url(assets/images/background-image.jpg);
-  /*background-color: #51d1f4;*/
   /* Full height */
   height: 100%; 
   /* Center and scale the image nicely */
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
   margin: 0px; }
 
@@ -677,7 +674,7 @@ body {
   -webkit-box-shadow: 0px 10px 43px -14px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 10px 43px -14px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 10px 43px -14px rgba(0, 0, 0, 0.25);
-  background-color: #fff;
+  background-color: rgb(48, 180, 79);
   border-radius: 10px;
   width: 360px;
   margin-top: 16px;
@@ -695,7 +692,7 @@ body {
   transition-property: box-shadow, transform, -webkit-transform;
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
-  background: #fff; }
+  background: rgb(249, 242, 98); }
 
 .card:hover,
 .card:active {
@@ -737,7 +734,7 @@ body {
   padding-top: 48px;
   margin: auto;
   width: 710px;
-  color: #333;
+  color: rgb(0, 0, 0);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "Rubik", "Roboto", "Helvetica", sans-serif;
@@ -896,7 +893,7 @@ hr {
 /* MOBILE RULES */
 @media only screen and (max-width: 768px) {
   body {
-    background-image: url("../../assets/img/backgyan.jpg");
+    background-image: url("./assets/images/amir_picture_2018.jpeg");
     background-color: #F2F1F6;
     background-position: bottom;
     background-repeat: no-repeat;
