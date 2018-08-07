@@ -1026,3 +1026,7 @@ body {
 @media only screen and (min-width: 2000px) {
   .cardcont {
     min-height: 40vh; } }
+
+#resume {
+  color: rgb(255, 140, 0);
+}
