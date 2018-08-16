@@ -918,7 +918,7 @@ body {
     margin: auto; }
   .blogtitle2 {
     padding-top: 20px;
-    width: 90%;
+    width: auto;
     margin: auto; }
   .blogsubtitle {
     padding-top: 8px;
