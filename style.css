@@ -682,7 +682,7 @@ body {
   transition-property: box-shadow, transform, -webkit-transform;
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
-  background: rgb(249, 242, 98); }
+  background: rgb(252, 248, 43); }
 
 .card:hover,
 .card:active {
