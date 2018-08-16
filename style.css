@@ -309,13 +309,13 @@
 
 .smiley {
   background-position: center;
-  height: 120px;
+  height: 200px;
   /* background-image: url("assets/images/amir_picture_2018.jpeg"); */
   background-size: 120px 120px;
   background-repeat: no-repeat;
   width: 736px;
   margin: auto;
-  padding-top: 80px;
+  padding-top: 120px;
   margin-bottom: -100px; }
 
 .projectdesc {
