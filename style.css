@@ -878,6 +878,11 @@ hr {
   margin-top: 80px;
   margin-bottom: 80px; }
 
+#amir{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}  
 /* MOBILE RULES */
 @media only screen and (max-width: 768px) {
 body {
