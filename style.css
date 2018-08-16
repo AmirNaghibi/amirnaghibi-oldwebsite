@@ -721,13 +721,13 @@ body {
   line-height: 1.2; }
 
 .blogtitle2 {
-  padding-top: 48px;
+  padding-top: 20px;
   margin: auto;
-  width: 710px;
+  width: 700px;
   color: rgb(0, 0, 0);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Rubik", "Roboto", "Helvetica", sans-serif;
+  font-family: 'Press Start 2P', cursive;
   letter-spacing: -.08rem;
   font-weight: 400;
   font-size: 32px;
